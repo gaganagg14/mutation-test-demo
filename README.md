@@ -1,5 +1,3 @@
-<img width="868" alt="Screenshot 2025-03-21 at 12 45 27 PM" src="https://github.com/user-attachments/assets/18e4720c-9ee0-41a4-8589-2461909cfed0" /># mutation-test-demo
-
 **Steps to setup -
 1. Open the project in any IDE
 2. Run command - mvn clean install
